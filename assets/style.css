@@ -1,0 +1,12 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: black;
+    background-color: white
+}
+
+img {
+    border-color: blue;
+    border-style: solid;
+    border-width: 3px;
+}
