@@ -10,3 +10,18 @@ img {
     border-style: solid;
     border-width: 3px;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 800px;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.flex-item {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
